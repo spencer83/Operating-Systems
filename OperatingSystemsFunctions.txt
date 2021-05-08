@@ -2,3 +2,5 @@ Task Manager:
 Task manager is an application for WindowsOS that helps monitor all of the apps running on your device. You can do a few things from here. You can see which applications are taking up the most resources, and then stop those task. You can have certain applications start on start up, and you can stop certain applications from starting on start up as well.
 File Exlporer:
 File explorer is the main way of organizing your files on windows. Windows makes it easy to configure all sorts of organization. You can set default download files, you can make named folders and put your work in organized folders, and you can even create new text files by right clicking in the desired folder. 
+Desktop:
+The desktop is a on almost every common OS out there. The whole purpose of a desktop is to personally customize the way that your computer looks and feels with a background image. You can also create some shortcuts to key applications that you use so it is just a click of a button and you are in the application.
